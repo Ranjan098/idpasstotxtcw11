@@ -35,3 +35,5 @@
     <img src="./resources/okteto.png" alt="okteto icon" width="75"> <img src="./resources/teletips.png" alt="teletips logo" width="75">
 </h3>
 
+
+- [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/wEf927)
